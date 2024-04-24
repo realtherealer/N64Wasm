@@ -1,19 +1,26 @@
 <!DOCTYPE html>
 <html>
 
-function inIframe () {
+
+<head>
+    <script>
+        
+        function inIframe () {
     try {
         return window.self !== window.top;
     } catch (e) {
         return true;
     }
-}
-
-<head>
-    var embedded = inIframe()
+            }
+        var embedded = inIframe()
     if (embedded = false) {
-        <title>Please click the "Fullscreen" button to access this game.</title>
+        <html>
+        <title>"Please click the Fullscreen button to access this game."</title>
+        <h1>"Please click the Fullscreen button to access this game."</h1>
+        </html>
     }
+            
+    </script>
     <title>N64 Player</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="keywords" content="N64 Emulator, N64 JavaScript Emulator, WebAssembly, HTML5, Nintendo 64">
