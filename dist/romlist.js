@@ -8,7 +8,7 @@ var ROMLIST = [
     {url:"roms/Shotgun Mario 64.z64",title:"Shotgun Mario 64"},
     {url:"roms/Super Mario Odyssey 64 V5 but Main Game.z64",title:"Super Mario Odyssey 64"},
     {url:"roms/Mario and Yoshi 64.z64",title:"Mario + Yoshi 64"},
-    {url:"roms/_Super Luigi 64 - Poltergust Edition.z64",title:"Super Luigi 64"},
+   // {url:"roms/_Super Luigi 64 - Poltergust Edition.z64",title:"Super Luigi 64"},
     {url:"roms/Super Mario 64 Star Road.z64",title:"Super Mario 64: Star Road"},
     {url:"roms/TPP.z64",title:"Super Mario 64: Beta"},
 ];
