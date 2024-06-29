@@ -67,7 +67,7 @@
         <h6>
             Games may take up to 1 minute to load. Pressing the play button again will restart the loading time.
         </h6>
-        myClass.loadRom();
+        <script>myClass.loadRom();</script>
         <div id="topPanel" style="display: none;">
 
             <!-- BEFORE LOAD -->
@@ -132,7 +132,7 @@
                 <!-- ROM LIST -->
                 <div class="form-group mt-2 mb-4" rv-if="data.hasRoms" style="width: 300px;margin-left: auto; margin-right:auto;">
                     <select class="form-control" id="romselect">
-                        <option rv-each-rom="data.romList" rv-value="roms/Super Mario 64">{rom.title}</option>
+                        <option rv-each-rom="data.romList" rv-value="roms/Super Mario 64.z64">{rom.title}</option>
                     </select>
                 </div>
 
