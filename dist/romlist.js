@@ -6,6 +6,7 @@ var ROMLIST = [
     {url:"roms/Paper Mario.z64",title:"Paper Mario N64"},
     {url:"roms/Super Mario 64 (USA).z64",title:"--MODS--"},
     {url:"roms/Shotgun Mario 64.z64",title:"Shotgun Mario 64"},
+    {url:"roms/mb64_v1_0_0.z64",title:"Mario Maker 64"},
     {url:"roms/Super Mario Odyssey 64 V5 but Main Game.z64",title:"Super Mario Odyssey 64"},
     {url:"roms/Mario and Yoshi 64.z64",title:"Mario + Yoshi 64"},
     {url:"roms/Super Luigi 64 - Poltergust Edition.z64",title:"Super Luigi 64"},
